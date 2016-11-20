@@ -1,10 +1,15 @@
 .imagePadding{
-    padding:16px;
+    padding:6px;
     
     
 }
 
 #pharmacyImage{
+    max-width:100%;
+    height:auto;
+}
+
+#doctorImage{
     max-width:100%;
     height:auto;
 }
